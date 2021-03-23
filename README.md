@@ -4,13 +4,11 @@
 
 El propósito de esta actividad es tener un perfil completo de nuestros BrightCoders.
 
-## Presentación
+## Instrrucciones
 
-Actualiza el archivo [_data/data.yml](_data/data.yml) con tu información, siguiendo las instrucciones que a continuación se presentan.
+Actualiza el archivo [_data/data.yml](_data/data.yml) con tu información, siguiendo las indicaciones que a continuación se presentan.
 
-Puedes modificar el archivo directamente desde aquí en GitHub o descargarlo en tu computadora local y subir la actualización.
-
-# Instrucciones
+Puedes modificar el archivo directamente desde aquí en GitHub o descargarlo en tu computadora local y subir la actualización (utilizando git).
 
 ## Habilitar GitHub Pages
 
