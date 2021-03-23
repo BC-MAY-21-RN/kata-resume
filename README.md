@@ -4,8 +4,6 @@
 
 El propósito de esta actividad es tener un perfil completo de nuestros BrightCoders.
 
-**NOTA** Este template fué tomado de [https://github.com/sharu725/online-cv](https://github.com/sharu725/online-cv)  y adaptado para BrightCoders.
-
 ## Presentación
 
 Actualiza el archivo [_data/data.yml](_data/data.yml) con tu información, siguiendo las instrucciones que a continuación se presentan.
@@ -103,3 +101,5 @@ Para entender el modelo Dreyfus e identificar en que nivel te encuentras utiliza
 - [How To Evaluate Expertise: the Dreyfus Model](https://www.solcept.ch/en/blog/dreyfus-model/)
 - [Building Software Development Expertise – Using The Dreyfus Model](https://skorks.com/2009/08/building-software-development-expertise-using-the-dreyfus-model/)
 - [Software Engineer Qualification Levels: Junior, Middle, and Senior](https://hackernoon.com/software-engineer-qualification-levels-junior-middle-and-senior-f2229591df1c)
+
+**NOTA** Este template fué tomado de [https://github.com/sharu725/online-cv](https://github.com/sharu725/online-cv)  y adaptado para BrightCoders.
