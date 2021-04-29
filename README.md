@@ -15,7 +15,7 @@ Puedes modificar el archivo directamente desde aquí en GitHub o descargarlo en 
 1. Ve al apartado de `settings` de este repositorio.
 2. Ubica el apartado  `Github Pages`
 3. En `source` selecciona la rama `master`
-4. En el archivo `_config.yml` modifica el campo `baseurl:` con la dirección que tu GitHub Pages generó-
+4. En el archivo `_config.yml` modifica el campo `baseurl:` con la dirección que tu GitHub Pages generó.
 
 Con esto se publicará tu repositorio y en esa dirección podrás revisar las actualizaciones que hagas. Es importante que cada que hagas una modificación revises como se actualiza tu página ya que podrías generar algunos errores.
 
