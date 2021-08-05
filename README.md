@@ -21,18 +21,13 @@ Con esto se publicará tu repositorio y en esa dirección podrás revisar las ac
 
 ## Nombre
 
-1. Ubica el apartado `name` y escribe tu nombre completo
+1. Ubica el apartado `name` y escribe tu primer nombre y apellido, por ejemplo: Juan Pérez
 
 ## Programa
 
 1. Ubica el apartado `tagline` y escribe según corresponda:
    - Ruby on Rails Web Developer
    - React Native Mobile Developer
-
-## Foto
-
-1. Prepara una foto de perfil tuya de tamaño 100x100
-2. Guardala en la carpeta `assets/images`  con el nombre profile.png
 
 ## Datos de contacto
 
