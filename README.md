@@ -16,8 +16,10 @@ Puedes modificar el archivo directamente desde aquí en GitHub o descargarlo en 
 2. Ubica el apartado  `Github Pages`
 3. En `source` selecciona la rama `master`
 4. En el archivo `_config.yml` modifica el campo `baseurl:` con la dirección que tu GitHub Pages generó.
+5. Ve a la dirección que se generó para asegurarte que todo está bien. Puede tardar algunos segundos/minutos en actualizarse.
 
-Con esto se publicará tu repositorio y en esa dirección podrás revisar las actualizaciones que hagas. Es importante que cada que hagas una modificación revises como se actualiza tu página ya que podrías generar algunos errores.
+Con esto se publicará tu repositorio y en esa dirección podrás revisar las actualizaciones que hagas. 
+Es importante que cada que hagas una modificación revises como se actualiza tu página ya que podrías generar algunos errores.
 
 ## Nombre
 
@@ -73,7 +75,16 @@ Estas son algunas de las soft skills que más valoran los empleadores:
 ## Experiencia
 
 1. Ubica el apartado `experiences`.
-2. Registra los proyectos o trabajos en los queue has participado. Pueden ser proyectos escolares.
+2. Registra los puestos o trabajos en los que has tenido
+
+Para un perfil Jr. es completamente normal que no tengas mucha experiencia.
+
+## Projectos
+
+1. Ubica el apartado `projects`
+2. Registra los nombres de los proyectos (`title`), un enlace al proyecto si es que existe (`link`) y una breve descripción (`tagline`)
+
+No es necesario que sean proyectos profesionales o pagados. Pueden ser proyectos personales, escolares, de retos, hackatones, etc. El propósito es mostrar el uso de tus habilidades técnicas.
 
 ## Technical Skills
 
