@@ -40,8 +40,8 @@ Es importante que cada que hagas una modificación revises como se actualiza tu 
 1. Ubica el apartado `languages`.
 2. Incluye todos lo idiomas que sabes así como el nivel de dominio. Para el nivel utiliza:
    - Si es tu lengua nativa puedes indicarlo como Native.
-   - Si tienes resultado de alguna evaluación official como IELTS, TOEFL, etc. indica el nivel o puntos obtenidos.
-   - Si **no** tienes alguna evaluación utiliza el modelo **Dreyfus** (este modelo se explica al final de este documento).
+   - Indica el resultado de una evaluación oficial como IELTS, TOEFL, [EF-SET](https://www.efset.org/ef-set-50/) e indica el nivel o puntos obtenidos.
+   - Para otros idiomas (diferente al inglés), si **no** tienes alguna evaluación oficial utiliza el modelo **Dreyfus** (este modelo se explica al final de este documento).
 
 ## Soft skills
 
@@ -79,7 +79,7 @@ Estas son algunas de las soft skills que más valoran los empleadores:
 
 Para un perfil Jr. es completamente normal que no tengas mucha experiencia.
 
-## Projectos
+## Proyectos
 
 1. Ubica el apartado `projects`
 2. Registra los nombres de los proyectos (`title`), un enlace al proyecto si es que existe (`link`) y una breve descripción (`tagline`)
